@@ -1,0 +1,6 @@
+@CSVParsing.Web_HostAddress = http://localhost:5118
+
+GET {{CSVParsing.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
